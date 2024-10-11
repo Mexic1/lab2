@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0562dfb8-a306-44b3-b7f3-ac08b080c5ef" name="Changes" comment="ex2-facut acasa">
-      <change afterPath="$PROJECT_DIR$/src/ex4/Persoana.java" afterDir="false" />
+    <list default="true" id="0562dfb8-a306-44b3-b7f3-ac08b080c5ef" name="Changes" comment="ex4-facut acasa">
+      <change afterPath="$PROJECT_DIR$/src/ex3/PozString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +29,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Mexic1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mexic1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Mexic1/lab2.git",
-    "accountId": "bcdaa66d-1662-4382-b56d-de8c6d0dbc60"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mexic1/lab2.git&quot;,
+    &quot;accountId&quot;: &quot;bcdaa66d-1662-4382-b56d-de8c6d0dbc60&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -58,6 +58,7 @@
     "Application.EX1.executor": "Run",
     "Application.EX2.executor": "Run",
     "Application.Persoana.executor": "Run",
+    "Application.PozString.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -94,7 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1728565830087</updated>
       <workItem from="1728565831254" duration="3319000" />
-      <workItem from="1728587483768" duration="15476000" />
+      <workItem from="1728587483768" duration="15859000" />
+      <workItem from="1728649131904" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="ex2-facut acasa">
       <option name="closed" value="true" />
@@ -120,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728593739584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ex4-facut acasa">
+      <option name="closed" value="true" />
+      <created>1728609199090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728609199090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex2-facut acasa" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex2-facut acasa" />
+    <MESSAGE value="ex4-facut acasa" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex4-facut acasa" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
